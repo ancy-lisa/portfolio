@@ -1,0 +1,41 @@
+.banner{
+    height:90vh;
+    width:100vw;
+    background-image: url(./images/desktop-wallpaper-software-developer-software-engineering.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+    
+}
+.navbar{
+    background-color: #0a1d46 !important;
+}
+
+/* .main-text{
+    background: url(./lisa.jpeg);
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    color:transparent;
+} */
+.animate__animated.animate__fadeIn {
+    --animate-duration: 6s;
+  }
+
+
+
+  /* typing animation in flipcard */
+
+ 
+
+  /* typing animation in flipcard */
+
+
+
+
